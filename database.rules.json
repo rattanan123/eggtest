@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "incubator": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    }
+  }
+}
